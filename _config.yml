@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingxin Li"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Digital Technologies and Intelligent Maintenance for Offshore Renewable Energy "
 repository               : "lmxDestined/lmxDestined.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mingxin Li"
   avatar           : "images/Mingxin Li.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "University of Tokyo"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Vgfc69oAAAAJ&hl"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "m.li@bridge.t.u-tokyo.ac.jp"
+  researchgate     : "https://www.researchgate.net/profile/Mingxin-Li-26?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "www.linkedin.com/in/mingxin-li-1aa8b619b"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0003-3835-1036
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
