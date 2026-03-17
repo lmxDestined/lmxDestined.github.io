@@ -23,8 +23,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 <div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
-  <img src="images/Picture 1.png" alt="img1" style="width: 19%; height: auto;">
-  <img src="images/Picture 2.png" alt="img2" style="width: 19%; height: auto;">
+  <img src="images/Picture1.png" alt="img1" style="width: 19%; height: auto;">
+  <img src="images/Picture2.png" alt="img2" style="width: 19%; height: auto;">
 </div>
 
 - **2019.09–2023.07**  
@@ -44,10 +44,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 👨‍💻 Professional Appointments
 <div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
-  <img src="images/Picture 3.png" alt="img1" style="width: 19%; height: auto;">
-  <img src="images/Picture 4.png" alt="img2" style="width: 19%; height: auto;">
-  <img src="images/Picture 5.png" alt="img2" style="width: 19%; height: auto;">
-  <img src="images/Picture 6.png" alt="img2" style="width: 19%; height: auto;">
+  <img src="images/Picture3.png" alt="img1" style="width: 19%; height: auto;">
+  <img src="images/Picture4.png" alt="img2" style="width: 19%; height: auto;">
+  <img src="images/Picture5.png" alt="img2" style="width: 19%; height: auto;">
+  <img src="images/Picture6.png" alt="img2" style="width: 19%; height: auto;">
 </div>
 
 - **2024.09–now**  
@@ -73,7 +73,7 @@ My research interest includes neural machine translation and computer vision. I 
     Supervisor: Prof. Liping Sun</p>
   </div>
   <div style="margin-left:20px;">
-    <img src="images/Picture 2.png" alt="photo" width="140" style="border-radius:8px;">
+    <img src="images/Picture2.png" alt="photo" width="140" style="border-radius:8px;">
   </div>
 </div>
 
@@ -85,7 +85,7 @@ My research interest includes neural machine translation and computer vision. I 
     Supervisor: Prof. Liping Sun</p>
   </div>
   <div style="margin-left:20px;">
-    <img src="images/Picture 1.png" alt="photo" width="140" style="border-radius:8px;">
+    <img src="images/Picture1.png" alt="photo" width="140" style="border-radius:8px;">
   </div>
 </div>
 
@@ -97,7 +97,7 @@ My research interest includes neural machine translation and computer vision. I 
     Supervisor: Prof. Liping Sun</p>
   </div>
   <div style="margin-left:20px;">
-    <img src="images/Picture 1.png" alt="photo" width="140" style="border-radius:8px;">
+    <img src="images/Picture1.png" alt="photo" width="140" style="border-radius:8px;">
   </div>
 </div>
 
