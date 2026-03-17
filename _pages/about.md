@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my PhD from Delft University of Technology in the Netherlands, and subsequently conducted research at the University of Strathclyde (UK), Politecnico di Milano (Italy), KU Leuven (Belgium). Since 2024, I have been funded by the Japan Society for the Promotion of Science (JSPS) Postdoctoral Fellowship to work as a JSPS Research Fellow at the University of Tokyo. The JSPS Postdoctoral Fellowship is an international program attracting young and excellent researchers from all over the world to conduct individual research in Japan. The selection process is highly competitive, with a success rate of below 10% each year. It is one of the most renowned postdoctoral fellowships globally, comparable to the Marie Curie Postdoctoral Fellowship in the EU and Humboldt Research Fellowship in Germany. 
+I obtained my PhD from Delft University of Technology in the Netherlands, and subsequently conducted research at the University of Strathclyde (UK), Politecnico di Milano (Italy), KU Leuven (Belgium). Since 2024, I have been funded by the **Japan Society for the Promotion of Science (JSPS) Postdoctoral Fellowship** to work as a JSPS Research Fellow at the University of Tokyo. The JSPS Postdoctoral Fellowship is an international program attracting young and excellent researchers from all over the world to conduct individual research in Japan. The selection process is highly competitive, with a success rate of below 10% each year. It is regarded as one of the world’s most prestigious postdoctoral fellowships, alongside the EU’s Marie Skłodowska-Curie Postdoctoral Fellowship and Germany’s Humboldt Research Fellowship..
 
-My research focuses on developing digital twin technology, AI-driven condition monitoring, and intelligent maintenance techniqus to advance the reliability, risk assessment, and resilience of offshore renewable energy systems. I have published about 30 papers as the first/corresponding authors at the international journals and conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My research, highly recognized across the fields of wind energy, ocean engineering, and reliability engineering, has earned me 12 prestigious international fellowships, scholarships, and awards. I am currently an observer and an invited speaker of the International Energy Agency (IEA) Wind TCP Task 43 and 53, a member of European Academy of Wind Energy (EAWE) technical committees and International Society of Offshore and Polar Engineers (ISOPE) technical committees. I have served as an editorial member/ guest editor/youth editorial member of eight journals, acted as an organizing com-mittee member/session chair at six international conferences.
+My research focuses on developing **digital twin technology**, **AI-driven condition monitoring**, and **intelligent maintenance techniques** to **advance the reliability, risk assessment, and resilience of offshore renewable energy systems**. I have published about 30 papers as the first/corresponding authors at the international journals and conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My research, highly recognized across the fields of wind energy, ocean engineering, and reliability engineering, has earned me **12 prestigious international fellowships, scholarships, and awards**. 
+
+I am currently an observer and an invited speaker of the International Energy Agency (IEA) Wind TCP Task 43 and 53, a member of European Academy of Wind Energy (EAWE) technical committees and International Society of Offshore and Polar Engineers (ISOPE) technical committees. I have served as an editorial member/ guest editor/youth editorial member of 8 journals, acted as an organizing com-mittee member/session chair at 6 international conferences.
 
 # 📖 Educations
 <div style="display:flex; align-items:center; margin-bottom:24px;">
@@ -41,7 +43,7 @@ My research focuses on developing digital twin technology, AI-driven condition m
     Harbin Engineering University, China<br>
     Supervisor: Prof. Liping Sun</p>
   </div>
-  <div style="margin-left:20px;">
+  <div style="margin-left:18px;">
     <img src="images/Picture1.png" alt="photo" width="80" style="border-radius:8px;">
   </div>
 </div>
@@ -53,7 +55,7 @@ My research focuses on developing digital twin technology, AI-driven condition m
     Harbin Engineering University, China<br>
     Supervisor: Prof. Liping Sun</p>
   </div>
-  <div style="margin-left:20px;">
+  <div style="margin-left:18px;">
     <img src="images/Picture1.png" alt="photo" width="80" style="border-radius:8px;">
   </div>
 </div>
@@ -68,8 +70,8 @@ My research focuses on developing digital twin technology, AI-driven condition m
     The University of Tokyo, Japan<br>
     Host: Dr. Yuka Kikuchi, Prof. Takeshi Ishihara</p>
   </div>
-  <div style="margin-left:20px;">
-    <img src="images/Picture6.png" alt="photo" width="140" style="border-radius:8px;">
+  <div style="margin-left:16px;">
+    <img src="images/Picture6.png" alt="photo" width="220" style="border-radius:8px;">
   </div>
 </div>
 
@@ -119,8 +121,10 @@ My research focuses on developing digital twin technology, AI-driven condition m
 - Digital twin-enhanced O&M in Offshore Renewable Energy. *UK, EPSRC Supergen Offshore Renewable Energy Hub, 5 K£*
 - Optimization of Maintenance Strategies for Offshore Wind Farms by using Digital Twin Technology. *Japan, The Japan Society for the Promotion of Science (JSPS), 23 M¥ (JPY)*
 - KAKENHI Grants-in-Aid for Scientific Research. *Japan, The Japan Society for the Promotion of Science (JSPS), 1.6 M M¥ (JPY)*
+
 ## Researcher Co-investigator
 - Holi-DOCTOR: Holistic framework for DiagnOstiCs and moniTORing of wind turbine blades. *The Netherlands, NWO-KIC, 1.53 M€*
+
 ## Researcher
 - X-ROTOR: X-shaped Radical Offshore Wind Turbine for Overall Cost of Energy Reduction. *European Commission, Horizon 2020, 3.9 M€*
 - Reliability analysis, diagnosis and prognosis of direct drive and medium speed generators. *UK, EPSRC, 269 K£*
@@ -148,9 +152,34 @@ My research focuses on developing digital twin technology, AI-driven condition m
 - Xiaohuan Lyu, and **Mingxin Li**\*. [Cost-effective and carbon policy-driven network design optimization for Green Maritime Corridors: Case studies in the Baltic, Mediterranean, and Pacific regions](https://doi.org/10.1016/j.energy.2025.139509), *Energy* (2025): 139509.
 - Ruinan Guo, Yingfei Zan, Shan Wang, Zhongming Li, Duanfeng Han, and **Mingxin Li**. [Time-varying hydrodynamic loads on a remotely operated vehicle during water entry](https://doi.org/10.1016/j.oceaneng.2025.122843), *Ocean Engineering* 341 (2025): 122843.
 - Kayacan Kestel, Xavier Chesterman, Donatella Zappalá, Simon Watson, **Mingxin Li**, Edward Hart, James Carroll et al. [Condition monitoring of wind turbine drivetrains: State-of-the-art technologies, recent trends, and future outlook](https://doi.org/10.5194/wes-2025-168), *Wind Energy Science Discussions* 2025 (2025): 1-85.
+- Jichuan Kang, Kunbao Lv, Yu Sun, and **Mingxin Li**\*. [Predictive risk assessment framework for leakage accident of offshore LNG transfer system](https://doi.org/10.1016/j.eswa.2025.126580), *Expert Systems with Applications* 271 (2025): 126580.
+- Yuming Yuan, Binzhen Zhou, Zhiwei Yang, Bo Liu, Zhipeng Zhou, and **Mingxin Li**. [A hybrid wake method for simulating yaw tandem wind turbine](https://doi.org/10.1016/j.oceaneng.2024.119549), *Ocean Engineering* 313 (2024): 119549.
+- Jichuan Kang, Xu Zhu, Li Shen, and **Mingxin Li**\*. [Fault diagnosis of a wave energy converter gearbox based on an Adam optimized CNN-LSTM algorithm](https://doi.org/10.1016/j.renene.2024.121022). *Renewable energy* 231 (2024): 121022.
+- **Mingxin Li**\*, Xiaoli Jiang, James Carroll, and Rudy R. Negenborn. [Operation and maintenance management for offshore wind farms integrating inventory control and health information](https://doi.org/10.1016/j.renene.2024.120970), *Renewable Energy* 231 (2024): 120970.
+- **Mingxin Li**\*, Bas Bijvoet, Kangjie Wu, Xiaoli Jiang, and Rudy R. Negenborn. [Optimal chartering decisions for vessel fleet to support offshore wind farm maintenance operations](https://doi.org/10.1016/j.oceaneng.2024.117202), *Ocean Engineering* 298 (2024): 117202.
+- **Mingxin Li**\*, James Carroll, Ahmad Sukri Ahmad, Nor Shahida Hasan, M. Zaid B. Zolkiffly, Gboyega Bishop Falope, and Khalik Mohamad Sabil. [Potential of offshore wind energy in Malaysia: an investigation into wind and bathymetry conditions and site selection](https://doi.org/10.3390/en17010065), *Energies* 17, no. 1 (2023): 65.
+- **Mingxin Li**\*, Xiaoli Jiang, James Carroll, and Rudy R. Negenborn. [A closed-loop maintenance strategy for offshore wind farms: Incorporating dynamic wind farm states and uncertainty-awareness in decision-making](https://doi.org/10.1016/j.rser.2023.113535), *Renewable and Sustainable Energy Reviews* 184 (2023): 113535.
+- **Mingxin Li**\*, Xiaoli Jiang, James Carroll, and Rudy R. Negenborn. [A multi-objective maintenance strategy optimization framework for offshore wind farms considering uncertainty](https://doi.org/10.1016/j.apenergy.2022.119284), *Applied Energy* 321 (2022): 119284.
+- **Mingxin Li**\*, Xiaoli Jiang, and Rudy R. Negenborn. [Opportunistic maintenance for offshore wind farms with multiple-component age-based preventive dispatch](https://doi.org/10.1016/j.oceaneng.2021.109062), *Ocean Engineering*, 231 (2021), 109062.
+- **Mingxin Li**\*, Mian Wang, Jichuan Kang, Liping Sun, and Peng Jin. [An opportunistic maintenance strategy for offshore wind turbine system considering optimal maintenance intervals of subsystems](https://doi.org/10.1016/j.oceaneng.2020.108067), *Ocean Engineering* 216 (2020): 108067.
+- **Mingxin Li**, Jichuan Kang, Liping Sun, and Mian Wang. [Development of Optimal Maintenance Policies for Offshore Wind Turbine Gearboxes Based on the Non-homogeneous Continuous-Time Markov Process](https://doi.org/10.1007/s11804-019-00075-9), *Journal of Marine Science and Application* 18, no. 1 (2019): 93-98.
+- Jichuan Kang, Lang Wang, **Mingxin Li**\*, Liping Sun, and Peng Jin. [Failure statistics analysis based on Bayesian theory: A study of FPSO internal turret leakage](https://doi.org/10.1007/s13344-019-0002-z), *China Ocean Engineering* 33, no. 1 (2019): 14-25.
 
 ## Conference papers
-- **Mingxin Li**\*, and Yuka Kikuchi. [Predictive Maintenance Optimization for Offshore Wind Farms with Power Losses and Wake Effect Considerations](https://onepetro.org/ISOPEIOPEC/proceedings-split/ISOPE25/ISOPE25/ISOPE-I-25-051/713295). In *Proceedings of the 35th International Ocean and Polar Engineering Conference* (2025), Seoul, Korea.
+- **Mingxin Li**\*, and Yuka Kikuchi. Predictive Maintenance Optimization for Offshore Wind Farms with Power Losses and Wake Effect Considerations. In *Proceedings of the 35th International Ocean and Polar Engineering Conference* (2025), Seoul, Korea.
+- **Mingxin Li**\*. Digital and Intelligent Transformation of Offshore Wind Energy Operation and Maintenance: Potential Directions for Future Research, *IFAC-PapersOnLine* 59, no. 22 (2025): 758-763.
+- Alessandro Annoni, Marie Gaubert, Shen Li, David Dai, **Mingxin Li**, Jun Zang, and Feargal Brennan. Laboratory-scale validation of modal expansion for virtual sensing of offshore tubular structures In *Proceedings of 13th International Conference on Advances in Steel-Concrete Composite Structures* (2024).
+- Jichuan Kang, Weijie Zhang, Zizhao Zhang, and **Mingxin Li**. Research on Failure Modes Converting Method and Identification Method of Autonomous Navigation Equipments Based on Knowledge Graphs. In *Proceedings of International Conference on Offshore Mechanics and Arctic Engineering*, vol. 87790, p. V002T02A069, (2024).
+- Honglin Li, **Mingxin Li**, James Carroll, and Jie Zhang. Techno-economic analysis incorporating intelligent operation and maintenance management: a case study of an integrated offshore wind and hydrogen energy system. In *Journal of Physics: Conference Series*, vol. 2767, no. 6, p. 062016, (2024).
+- **Mingxin Li**\*, Xiaoli Jiang, and Rudy R. Negenborn. Cost-driven multi-echelon inventory optimization for offshore wind farms. In *Proceedings of the 33rd International Ocean and Polar Engineering Conference* (2023).
+- **Mingxin Li**\*, Xiaoli Jiang, James Carroll, and Rudy R. Negenborn. Influence of uncertainty on performance of opportunistic maintenance strategy for offshore wind farms. In *Proceedings of OCEANS 2021: San Diego–Porto*, pp. 1-10. IEEE, (2021).
+- **Mingxin Li**\*, Xiaoli Jiang, Henk Polinder, and Rudy R. Negenborn. A review of maintenance strategy optimization for wind energy. In *Developments in Renewable Energies Offshore*, 469-480,  (2020).
+- Mian Wang, Liping Sun, and  **Mingxin Li**\*. Risk Analysis for FPSO Vapor Cloud Explosion Considering Domino Effect.  In *Proceedings of International Conference on Offshore Mechanics and Arctic Engineering*, vol. 51227, p. V003T02A058, (2018).
+- Jichuan Kang, **Mingxin Li**\*, Liping Sun, and Mian Wang. Preventative maintenance optimization for offshore wind turbine gearbox. In *Proceedings of the 35th International Ocean and Polar Engineering Conference* (2017).
+- **Mingxin Li**\*, Jichuan Kang, Sun Liping, and Mian Wang. Reliability analysis of offshore wind turbine gearbox. In *Progress in the Analysis and Design of Marine Structures*, (2017).
+
+# 📝 Patents
+
 
 # 🏅 Honors and Awards
 <div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
