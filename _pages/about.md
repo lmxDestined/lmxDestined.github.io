@@ -28,21 +28,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 📝 Publications
 
 ## PhD Thesis
 - Delft University of Technology. [Towards Closed-loop Maintenance Logistics for Offshore Wind Farms: Approaches for Strategic and Tactical Decision-making](https://research.tudelft.nl/en/publications/towards-closed-loop-maintenance-logistics-for-offshore-wind-farms/), **Mingxin Li**.
@@ -65,8 +50,13 @@ My research interest includes neural machine translation and computer vision. I 
 - **Mingxin Li**\*, and Yuka Kikuchi. [Predictive Maintenance Optimization for Offshore Wind Farms with Power Losses and Wake Effect Considerations](https://onepetro.org/ISOPEIOPEC/proceedings-split/ISOPE25/ISOPE25/ISOPE-I-25-051/713295). In *Proceedings of the 35th International Ocean and Polar Engineering Conference* (2025), Seoul, Korea.
 
 # 🎖 Honors and Awards
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
+  <img src="images/Screenshot 2026-03-17 105852.png" alt="img1" style="width: 19%; height: auto;">
+  <img src="images/Screenshot 2026-03-17 105940.png" alt="img2" style="width: 19%; height: auto;">
+  <img src="images/Screenshot 2026-03-17 110007.png" alt="img3" style="width: 19%; height: auto;">
+  <img src="images/Screenshot 2026-03-17 110029.png" alt="img4" style="width: 19%; height: auto;">
+  <img src="images/Screenshot 2026-03-17 110049.png" alt="img5" style="width: 19%; height: auto;">
+</div>
 
 - *2026* Marie Skłodowska-Curie Actions Seal of Excellence (awarded by Horizon Europe, in recognition of a high score 95.4%)
 - *2025* Gold Medal at the Geneva International Exhibition of Inventions (Rank 4/11)
