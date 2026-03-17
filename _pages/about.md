@@ -178,8 +178,8 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - Jichuan Kang, **Mingxin Li**\*, Liping Sun, and Mian Wang. Preventative maintenance optimization for offshore wind turbine gearbox. In *Proceedings of the 35th International Ocean and Polar Engineering Conference* (2017).
 - **Mingxin Li**\*, Jichuan Kang, Sun Liping, and Mian Wang. Reliability analysis of offshore wind turbine gearbox. In *Progress in the Analysis and Design of Marine Structures*, (2017).
 
-# 📝 Patents
-
+# 💡 Patents
+- Kang, J., Sun, L., Sun, Y., Yan, F., **Li, M**. A tidal current energy converting device for comprehensively utilizing linear rotating type power generation. Patent number: 201910806770.8
 
 # 🏅 Honors and Awards
 <div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
@@ -203,11 +203,77 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - *2023* Best TU Delft Wind Energy Paper Award
 - *2021* OCEANS Conference Best Paper 
 
+# 🧑‍💼 Professional Affliations and Services 
 
+## Academic organizations
+- I am a member for European Academy of Wind Energy (EAWE) Data & Digitalization Technical Committee and Drivetrain Technical Committee.
+- I am a International Society of Offshore and Polar Engineers (ISOPE) Technical Program Committee (TPC) member.
+- I am an observer and an invited speaker of International Energy Agency (IEA) Wind TCP Task 43 (Wind Energy Digitalization) and Task 53 (Wind Energy Economics). 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+## Journals
+-	I am serving as a (youth) Editorial Board Member of *Ocean*, *Marine Energy Research*, *Frontiers in Energy Research*, *Clean Energy Science and Technology*.
+-	I have served as the Special Issue Guest Editor for journals including *Measurement Science and Technology*, *Journal of Marine Science and Engineering*, *Fluid Dynamics & Materials Processing*, *Frontiers in Built En-vironment*, *Frontiers in Energy Research*, *Energies*. 
+- I have reviewed for conferences including ISOPE, TORQUE, OMAE, MEIE, CSAE.
+## Conferenes
+- I have served as a Organization Committee Member at JCCME 2025.
+- I have served as a Session Chair at QR2SME 2026, ISOPE 2025, APCOW 2025, WESC 2023, WESC 2025.
+- I have served as a Best Poster Selection Committee member for WindEurope Annual Event 2024-2026.
+- I have reviewed for about 40 international journals including *Reliability Engineering and System Safety*, *Renewable and Sustainable Energy Reviews*, *Applied Energy*, *Energy*, *npj Ocean Sustainability*, *Applied Ocean Research*, *Ocean Engineering*, *China Ocean Engineering*, *Journal of Cleaner Production*, *Wind Energy*, *Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability*, *IEEE Transactions on Industry Applications*, *IEEE Industry Applications Magazine*, *Quality and Reliability Engineering International*, *Energy and AI*, *Cogent Engineering*.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Invited Presentations
+## Conferenes
+- *2025.12*, The 2nd Asia Pacific Conference on Offshore Wind Technology. Shenzhen, China.
+- *2025.08*, The 16th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles. Wuhan, China.
+- *2025.06*, The 35th International Ocean and Polar Engineering Conference. Goyang/Gyeonggi-do, Korea.
+- *2023.06*, The 33rd International Ocean and Polar Engineering Conference. Ottawa, Canada (Online). 
+- *2023.05*, Wind Energy Science Conference. Glasgow, UK.
+- *2021.09*, OCEANS 2021: San Diego – Porto. San Diego, USA (Online).
+- *2020.10*, The 4th International Conference on Renewable Energies Offshore. Lisbon, Portugal (Online).
+- *2018.06*, The 37th International Conference on Ocean, Offshore and Arctic Engineering. Madrid, Spain. 
+- *2017.09*, The 3rd International Conference on Innovation and Cooperation in Ship and Ocean Engineering. Qingdao, China.
+- *2017.06*, The 27th International Ocean and Polar Engineering Conference. San Francisco, USA.
+
+## Symposium and Seminar
+- *2025.12*, Young Scholars Forum at Chongqing University. Chongqing, China.
+- *2025.07*, "Xinghai" Young Scholars Forum, Harbin Engineering University, Harbin, China.
+- *2024.12*, "Sea Road" Young Scholars Forum, Sun Yat-sen University, China.
+- *2024.12*, "Siyuan" Young Scholars Forum, Shanghai Jiaotong University, Shanghai, China.
+- *2024.07*, "Xinghai" Young Scholars Forum, Harbin Engineering University, Harbin, China.
+- *2023.09*, EPSRC CDT for Wind and Marine Energy Systems and Structures O&M Seminar, University of Strathclyde, Glasgow, UK.
+- *2022.12*, "Sea Road" Young Scholars Forum, Sun Yat-sen University, China  (Online).
+- *2022.11*, The 18th European Academy of Wind Energy PhD Seminar. Bruges, Belgium.
+- *2021.07*, [2]	TWIND Summer School: Operations and Maintenance. Delft, the Netherlands (Online).
+- *2020.10*, TEL PhD Seminar. TU Delft, the Netherlands (Online).
+
+# 🧑‍🏫 Teaching ans Supervision Experience
+## Teaching Assistantship
+- *2019-2021*, Asset management (AE3512, TU Delft).
+- *2020-2022*, Reliability and maintenance of transport equipment (ME44125, TU Delft).
+
+## Guest Lecturer
+- *2024*, Centre for Doctoral Training in Wind & Marine Energy Systems & Structures (University of Oxford, University of Strathclyde, University of Edinburgh).
+- *2024*, Offshore Wind Energy MSc course (University of Strathclyde).
+  
+## Graduation Committee Member
+*Master Graduation*
+-Alex Robinson: Development of a predictive maintenance model which provides fault identification and diagnostics on electrical gear motor systems (TU Delft) 
+- Rik Groenewegen: Decommissioning of offshore wind turbines - A model-based approach to assess cost reduc-ing decommissioning methodologies (TU Delft)	
+- Esmée Mooldijk: The quantified effect of an active maintenance strategy on the overall equipment effec-tiveness in dairy production lines - case study at Friesland Campina Maasdam (TU Delft, Cum Laude)
+  
+## Supervision
+*PhD Thesis (Co-supervisor)*
+- Tan Yoke Wang: Data driven failure prediction of wind turbine components (Ongoing, University of Strathclyde)
+*Master Thesis (Main supervisor)*
+- Kangjie Wu: An integrated framework of strategic and tactical operation and maintenance decision-making (TU Delft)
+*Centres for Doctoral Training (Main supervisor)*
+- "Dragons Den" group projects (University of Oxford, University of Strathclyde, University of Edinburgh)
+*Research Project (Main supervisor)*
+-	Job Willem Lokin: Opportunistic maintenance on offshore wind turbines: A multi-objective optimization using NSGA-II (TU Delft)
+-	Kangjie Wu: A joint optimization of maintenance logistics for offshore wind farm (TU Delft)
+-	Jorrit Sijtsma: A joint optimization of maintenance strategy and spare part management (TU Delft)
+-	Bas Bijvoet: A fleet management for maintenance of offshore wind farms (TU Delft)
+-	Kamal Eid: End-of-life strategies of offshore wind farms (TU Delft)
+*Literature Review Project (Main supervisor)*
+- Feike Tijsma: Literature review of reinforcement learning methods applied in maintenance decision-making for wind energy (TU Delft)
+-	Jeffrey Schoemakers: Literature review of maintenance scheduling and routing for offshore wind farms (TU Delft)
+
