@@ -21,7 +21,7 @@ I obtained my PhD from Delft University of Technology in the Netherlands, and su
 
 My research focuses on developing **digital twin technology**, **AI-driven condition monitoring**, and **intelligent maintenance techniques** to **advance the reliability, risk, and resilience of offshore renewable energy systems**. I have published about 30 papers as the first/corresponding authors at the international journals and conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My research, highly recognized across the fields of wind energy, ocean engineering, and reliability engineering, has earned me **12 prestigious international fellowships, scholarships, and awards**. 
 
-I am currently an observer and an invited speaker of the International Energy Agency (IEA) Wind TCP Task 43 and 53, a member of European Academy of Wind Energy (EAWE) technical committees and International Society of Offshore and Polar Engineers (ISOPE) technical committees. I have served as an editorial member/ guest editor/youth editorial member of 8 journals, acted as an organizing com-mittee member/session chair at 6 international conferences.
+I am currently an observer and an invited speaker of the International Energy Agency (IEA) Wind TCP Task 43 and 53, a member of European Academy of Wind Energy (EAWE) technical committees and International Society of Offshore and Polar Engineers (ISOPE) technical committees. I have served as an editorial member/ guest editor/youth editorial member of 8 journals, acted as an organizing committee member/session chair at 6 international conferences.
 
 # 📖 Educations
 <span id="education"></span>
@@ -106,9 +106,9 @@ I am currently an observer and an invited speaker of the International Energy Ag
 <div style="display:flex; align-items:center; margin-bottom:24px;">
   <div style="flex:1;">
     <p><strong>2023.07–2024.09</strong><br>
-    <strong>Wind Energy and Control Centre (WECC), Department of Electronic & Electrical Engineering</strong><br>
+    Wind Energy and Control Centre (WECC), Department of Electronic & Electrical Engineering</strong><br>
     University of Strathclyde, United Kingdom<br>
-    Supervisor: Prof. James Carroll</p>
+    Host: Prof. James Carroll</p>
   </div>
   <div style="margin-left:20px;">
     <img src="images/Picture3.png" alt="photo" width="160" style="border-radius:8px;">
@@ -122,7 +122,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - Rethinking Wind Power: A Multi-disciplinary Investigation into Novel Wind Turbine Design from Technological, Economic, and Social Perspectives. *UK, Strathwide Research Fund, 5 K£*
 - Digital twin-enhanced O&M in Offshore Renewable Energy. *UK, EPSRC Supergen Offshore Renewable Energy Hub, 5 K£*
 - Optimization of Maintenance Strategies for Offshore Wind Farms by using Digital Twin Technology. *Japan, The Japan Society for the Promotion of Science (JSPS), 23 M¥ (JPY)*
-- KAKENHI Grants-in-Aid for Scientific Research. *Japan, The Japan Society for the Promotion of Science (JSPS), 1.6 M M¥ (JPY)*
+- KAKENHI Grants-in-Aid for Scientific Research. *Japan, The Japan Society for the Promotion of Science (JSPS), 1.6 M¥ (JPY)*
 
 ## Researcher Co-investigator
 - Holi-DOCTOR: Holistic framework for DiagnOstiCs and moniTORing of wind turbine blades. *The Netherlands, NWO-KIC, 1.53 M€*
@@ -141,10 +141,10 @@ I am currently an observer and an invited speaker of the International Energy Ag
 ## PhD Thesis
 - Delft University of Technology. [Towards Closed-loop Maintenance Logistics for Offshore Wind Farms: Approaches for Strategic and Tactical Decision-making](https://research.tudelft.nl/en/publications/towards-closed-loop-maintenance-logistics-for-offshore-wind-farms/), **Mingxin Li**.
 
-## Book chapters
+## Book Chapters
 - **Mingxin Li**, Manu Centeno‐Telleria, and James Carroll. [Techno‐economic Analysis for Offshore Renewable Energy Technologies Incorporating a Holistic O&M Model](https://doi.org/10.1002/9781394300068.ch02), Renewable Energy Transition with Artificial Intelligence: Challenge‐driven Solutions (2025): 15-28.
 
-## Journal papers
+## Journal Papers
 - Wanwan Zhang, Jørn Vatn, Adil Rasheed, **Mingxin Li**\*, and Yiliu Liu. [Predictive maintenance scheduling of recoverable stochastic hybrid systems under degradation and shocks: a case study of an offshore wind farm](https://doi.org/10.1016/j.ress.2026.112545), *Reliability Engineering & System Safety* (2026): 112545.
 - Ji Li, Yang Liu, Zhuang Kang, **Mingxin Li**\*, and Jichuan Kang. [Numerical simulation-based collision risk assessment of autonomous underwater vehicles during launch and recovery](https://doi.org/10.1016/j.oceaneng.2026.124577), *Ocean Engineering* 352 (2026): 124577.
 - Shengming Wang, Chuanyang Zhao, Hongbing Liu, Zhenhao Zhu, **Mingxin Li**, Weizhe Ren, and Xianqiang Qu. [A physically interpretable two-stream spatio-temporal attention framework for predicting the power of offshore wind farms: A case study in the South China Sea](https://doi.org/10.1080/15435075.2025.2563154), *International Journal of Green Energy* 23, no. 3 (2026): 652-668.
@@ -155,9 +155,9 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - Ruinan Guo, Yingfei Zan, Shan Wang, Zhongming Li, Duanfeng Han, and **Mingxin Li**. [Time-varying hydrodynamic loads on a remotely operated vehicle during water entry](https://doi.org/10.1016/j.oceaneng.2025.122843), *Ocean Engineering* 341 (2025): 122843.
 - Kayacan Kestel, Xavier Chesterman, Donatella Zappalá, Simon Watson, **Mingxin Li**, Edward Hart, James Carroll et al. [Condition monitoring of wind turbine drivetrains: State-of-the-art technologies, recent trends, and future outlook](https://doi.org/10.5194/wes-2025-168), *Wind Energy Science Discussions* 2025 (2025): 1-85.
 - Jichuan Kang, Kunbao Lv, Yu Sun, and **Mingxin Li**\*. [Predictive risk assessment framework for leakage accident of offshore LNG transfer system](https://doi.org/10.1016/j.eswa.2025.126580), *Expert Systems with Applications* 271 (2025): 126580.
+- **Mingxin Li**\*, Xiaoli Jiang, James Carroll, and Rudy R. Negenborn. [Operation and maintenance management for offshore wind farms integrating inventory control and health information](https://doi.org/10.1016/j.renene.2024.120970), *Renewable Energy* 231 (2024): 120970.
 - Yuming Yuan, Binzhen Zhou, Zhiwei Yang, Bo Liu, Zhipeng Zhou, and **Mingxin Li**. [A hybrid wake method for simulating yaw tandem wind turbine](https://doi.org/10.1016/j.oceaneng.2024.119549), *Ocean Engineering* 313 (2024): 119549.
 - Jichuan Kang, Xu Zhu, Li Shen, and **Mingxin Li**\*. [Fault diagnosis of a wave energy converter gearbox based on an Adam optimized CNN-LSTM algorithm](https://doi.org/10.1016/j.renene.2024.121022). *Renewable energy* 231 (2024): 121022.
-- **Mingxin Li**\*, Xiaoli Jiang, James Carroll, and Rudy R. Negenborn. [Operation and maintenance management for offshore wind farms integrating inventory control and health information](https://doi.org/10.1016/j.renene.2024.120970), *Renewable Energy* 231 (2024): 120970.
 - **Mingxin Li**\*, Bas Bijvoet, Kangjie Wu, Xiaoli Jiang, and Rudy R. Negenborn. [Optimal chartering decisions for vessel fleet to support offshore wind farm maintenance operations](https://doi.org/10.1016/j.oceaneng.2024.117202), *Ocean Engineering* 298 (2024): 117202.
 - **Mingxin Li**\*, James Carroll, Ahmad Sukri Ahmad, Nor Shahida Hasan, M. Zaid B. Zolkiffly, Gboyega Bishop Falope, and Khalik Mohamad Sabil. [Potential of offshore wind energy in Malaysia: an investigation into wind and bathymetry conditions and site selection](https://doi.org/10.3390/en17010065), *Energies* 17, no. 1 (2023): 65.
 - **Mingxin Li**\*, Xiaoli Jiang, James Carroll, and Rudy R. Negenborn. [A closed-loop maintenance strategy for offshore wind farms: Incorporating dynamic wind farm states and uncertainty-awareness in decision-making](https://doi.org/10.1016/j.rser.2023.113535), *Renewable and Sustainable Energy Reviews* 184 (2023): 113535.
@@ -167,7 +167,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - **Mingxin Li**, Jichuan Kang, Liping Sun, and Mian Wang. [Development of Optimal Maintenance Policies for Offshore Wind Turbine Gearboxes Based on the Non-homogeneous Continuous-Time Markov Process](https://doi.org/10.1007/s11804-019-00075-9), *Journal of Marine Science and Application* 18, no. 1 (2019): 93-98.
 - Jichuan Kang, Lang Wang, **Mingxin Li**\*, Liping Sun, and Peng Jin. [Failure statistics analysis based on Bayesian theory: A study of FPSO internal turret leakage](https://doi.org/10.1007/s13344-019-0002-z), *China Ocean Engineering* 33, no. 1 (2019): 14-25.
 
-## Conference papers
+## Conference Papers
 - **Mingxin Li**\*, and Yuka Kikuchi. Predictive Maintenance Optimization for Offshore Wind Farms with Power Losses and Wake Effect Considerations. In *Proceedings of the 35th International Ocean and Polar Engineering Conference* (2025), Seoul, Korea.
 - **Mingxin Li**\*. Digital and Intelligent Transformation of Offshore Wind Energy Operation and Maintenance: Potential Directions for Future Research, *IFAC-PapersOnLine* 59, no. 22 (2025): 758-763.
 - Alessandro Annoni, Marie Gaubert, Shen Li, David Dai, **Mingxin Li**, Jun Zang, and Feargal Brennan. Laboratory-scale validation of modal expansion for virtual sensing of offshore tubular structures In *Proceedings of 13th International Conference on Advances in Steel-Concrete Composite Structures* (2024).
@@ -197,19 +197,19 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - *2026* Marie Skłodowska-Curie Actions Seal of Excellence (awarded by Horizon Europe, in recognition of a high score 95.4%)
 - *2025* Gold Medal at the Geneva International Exhibition of Inventions (Rank 4/11)
 - *2025* International Joint Conference on Civil and Marine Engineering (JCCME) Excellent Presentation Award
-- *2024* European Academy of Wind Energy (EAWE) Scholarship (10 awardees pear year, 500 €)
+- *2024* European Academy of Wind Energy (EAWE) Scholarship (10 awardees per year, 500 €)
 - *2024* European Federation of National Maintenance Societies (EFNMS) Euromaintenance PhD thesis Award Nomination (3 nonimators per year)
 - *2024* Dutch Maintenance Society's PhD thesis Award (1 awardee pear year, 1000 €)
 - *2024* Japan Society for the Promotion of Science (JSPS) Postdoctoral Fellowship (success rate below 10%)
 - *2024* International Conference on Ocean, Offshore and Arctic Engineering (OMAE) Outreach Scholarship (750 S$)
 - *2024* International Conference on Ocean, Offshore and Arctic Engineering (OMAE) Travel Award  (600 US$)
-- *2023* International Society of Offshore and Polar Engineers (ISOPE) Scholarships for Outstanding Students (3 awardees pear years, 1000 US$)
+- *2023* International Society of Offshore and Polar Engineers (ISOPE) Scholarships for Outstanding Students (3 awardees per years, 1000 US$)
 - *2023* Best TU Delft Wind Energy Paper Award
 - *2021* OCEANS Conference Best Paper 
 
 # 🧑‍💼 Professional Affliations and Services 
 <span id="professional-affiliations-and-services"></span>
-## Academic organizations
+## Academic Organizations
 - I am a member for European Academy of Wind Energy (EAWE) Data & Digitalization Technical Committee and Drivetrain Technical Committee.
 - I am a International Society of Offshore and Polar Engineers (ISOPE) Technical Program Committee (TPC) member.
 - I am an observer and an invited speaker of International Energy Agency (IEA) Wind TCP Task 43 (Wind Energy Digitalization) and Task 53 (Wind Energy Economics). 
@@ -247,7 +247,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - *2023.09*, EPSRC CDT for Wind and Marine Energy Systems and Structures O&M Seminar, University of Strathclyde, Glasgow, UK.
 - *2022.12*, "Sea Road" Young Scholars Forum, Sun Yat-sen University, China  (Online).
 - *2022.11*, The 18th European Academy of Wind Energy PhD Seminar. Bruges, Belgium.
-- *2021.07*, [2]	TWIND Summer School: Operations and Maintenance. Delft, the Netherlands (Online).
+- *2021.07*, TWIND Summer School: Operations and Maintenance. Delft, the Netherlands (Online).
 - *2020.10*, TEL PhD Seminar. TU Delft, the Netherlands (Online).
 
 # 🧑‍🏫 Teaching and Supervision Experience
@@ -262,7 +262,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
   
 ## Graduation Committee Member
 *Master Graduation*
--Alex Robinson: Development of a predictive maintenance model which provides fault identification and diagnostics on electrical gear motor systems (TU Delft) 
+- Alex Robinson: Development of a predictive maintenance model which provides fault identification and diagnostics on electrical gear motor systems (TU Delft) 
 - Rik Groenewegen: Decommissioning of offshore wind turbines - A model-based approach to assess cost reduc-ing decommissioning methodologies (TU Delft)	
 - Esmée Mooldijk: The quantified effect of an active maintenance strategy on the overall equipment effec-tiveness in dairy production lines - case study at Friesland Campina Maasdam (TU Delft, Cum Laude)
   
