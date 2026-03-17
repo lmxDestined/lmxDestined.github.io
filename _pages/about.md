@@ -32,7 +32,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
     Supervisor: Prof. Rudy R. Negenborn, Dr. Xiaoli Jiang</p>
   </div>
   <div style="margin-left:20px;">
-    <img src="images/Picture2.png" alt="photo" width="140" style="border-radius:8px;">
+    <img src="images/Picture2.png" alt="photo" width="160" style="border-radius:8px;">
   </div>
 </div>
 
@@ -43,7 +43,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
     Harbin Engineering University, China<br>
     Supervisor: Prof. Liping Sun</p>
   </div>
-  <div style="margin-left:16px;">
+  <div style="margin-left:12px;">
     <img src="images/Picture1.png" alt="photo" width="80" style="border-radius:8px;">
   </div>
 </div>
@@ -55,7 +55,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
     Harbin Engineering University, China<br>
     Supervisor: Prof. Liping Sun</p>
   </div>
-  <div style="margin-left:16px;">
+  <div style="margin-left:12px;">
     <img src="images/Picture1.png" alt="photo" width="80" style="border-radius:8px;">
   </div>
 </div>
@@ -263,16 +263,20 @@ I am currently an observer and an invited speaker of the International Energy Ag
 ## Supervision
 *PhD Thesis (Co-supervisor)*
 - Tan Yoke Wang: Data driven failure prediction of wind turbine components (Ongoing, University of Strathclyde)
+  
 *Master Thesis (Main supervisor)*
 - Kangjie Wu: An integrated framework of strategic and tactical operation and maintenance decision-making (TU Delft)
+  
 *Centres for Doctoral Training (Main supervisor)*
 - "Dragons Den" group projects (University of Oxford, University of Strathclyde, University of Edinburgh)
+  
 *Research Project (Main supervisor)*
 -	Job Willem Lokin: Opportunistic maintenance on offshore wind turbines: A multi-objective optimization using NSGA-II (TU Delft)
 -	Kangjie Wu: A joint optimization of maintenance logistics for offshore wind farm (TU Delft)
 -	Jorrit Sijtsma: A joint optimization of maintenance strategy and spare part management (TU Delft)
 -	Bas Bijvoet: A fleet management for maintenance of offshore wind farms (TU Delft)
 -	Kamal Eid: End-of-life strategies of offshore wind farms (TU Delft)
+  
 *Literature Review Project (Main supervisor)*
 - Feike Tijsma: Literature review of reinforcement learning methods applied in maintenance decision-making for wind energy (TU Delft)
 -	Jeffrey Schoemakers: Literature review of maintenance scheduling and routing for offshore wind farms (TU Delft)
