@@ -24,6 +24,7 @@ My research focuses on developing **digital twin technology**, **AI-driven condi
 I am currently an observer and an invited speaker of the International Energy Agency (IEA) Wind TCP Task 43 and 53, a member of European Academy of Wind Energy (EAWE) technical committees and International Society of Offshore and Polar Engineers (ISOPE) technical committees. I have served as an editorial member/ guest editor/youth editorial member of 8 journals, acted as an organizing com-mittee member/session chair at 6 international conferences.
 
 # 📖 Educations
+<span id="education"></span>
 <div style="display:flex; align-items:center; margin-bottom:24px;">
   <div style="flex:1;">
     <p><strong>2019.09–2023.07</strong><br>
@@ -62,6 +63,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
 
 
 # 👨‍💻 Professional Appointments
+<span id="professional-appointments"></span>
 <div style="display:flex; align-items:center; margin-bottom:24px;">
   <div style="flex:1;">
     <p><strong>2024.09–now</strong><br>
@@ -115,7 +117,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
 
 
 # 💻 Research Experience
-
+<span id="research-experience"></span>
 ## Principal Investigator
 - Rethinking Wind Power: A Multi-disciplinary Investigation into Novel Wind Turbine Design from Technological, Economic, and Social Perspectives. *UK, Strathwide Research Fund, 5 K£*
 - Digital twin-enhanced O&M in Offshore Renewable Energy. *UK, EPSRC Supergen Offshore Renewable Energy Hub, 5 K£*
@@ -134,7 +136,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - Hydrokinetic Energy Conversion of VIVACE based on Passive Turbulence Control. *China, 2.8 M¥ (CNY)* 
 
 # 📝 Publications 
-
+<span id="publications"></span>
 
 ## PhD Thesis
 - Delft University of Technology. [Towards Closed-loop Maintenance Logistics for Offshore Wind Farms: Approaches for Strategic and Tactical Decision-making](https://research.tudelft.nl/en/publications/towards-closed-loop-maintenance-logistics-for-offshore-wind-farms/), **Mingxin Li**.
@@ -179,9 +181,11 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - **Mingxin Li**\*, Jichuan Kang, Sun Liping, and Mian Wang. Reliability analysis of offshore wind turbine gearbox. In *Progress in the Analysis and Design of Marine Structures*, (2017).
 
 # 💡 Patents
+<span id="patents"></span>
 - Kang, J., Sun, L., Sun, Y., Yan, F., **Li, M**. A tidal current energy converting device for comprehensively utilizing linear rotating type power generation. Patent number: 201910806770.8
 
 # 🏅 Honors and Awards
+<span id="honors-and-awards"></span>
 <div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
   <img src="images/Screenshot 2026-03-17 105852.png" alt="img1" style="width: 19%; height: auto;">
   <img src="images/Screenshot 2026-03-17 105940.png" alt="img2" style="width: 19%; height: auto;">
@@ -204,7 +208,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - *2021* OCEANS Conference Best Paper 
 
 # 🧑‍💼 Professional Affliations and Services 
-
+<span id="professional-affiliations-and-services"></span>
 ## Academic organizations
 - I am a member for European Academy of Wind Energy (EAWE) Data & Digitalization Technical Committee and Drivetrain Technical Committee.
 - I am a International Society of Offshore and Polar Engineers (ISOPE) Technical Program Committee (TPC) member.
@@ -221,6 +225,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - I have reviewed for about 40 international journals including *Reliability Engineering and System Safety*, *Renewable and Sustainable Energy Reviews*, *Applied Energy*, *Energy*, *npj Ocean Sustainability*, *Applied Ocean Research*, *Ocean Engineering*, *China Ocean Engineering*, *Journal of Cleaner Production*, *Wind Energy*, *Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability*, *IEEE Transactions on Industry Applications*, *IEEE Industry Applications Magazine*, *Quality and Reliability Engineering International*, *Energy and AI*, *Cogent Engineering*.
 
 # 💬 Invited Presentations
+<span id="invited-presentations"></span>
 ## Conferenes
 - *2025.12*, The 2nd Asia Pacific Conference on Offshore Wind Technology. Shenzhen, China.
 - *2025.08*, The 16th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles. Wuhan, China.
@@ -246,6 +251,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - *2020.10*, TEL PhD Seminar. TU Delft, the Netherlands (Online).
 
 # 🧑‍🏫 Teaching and Supervision Experience
+<span id="teaching-and-supervision-experience"></span>
 ## Teaching Assistantship
 - *2019-2021*, Asset management (AE3512, TU Delft).
 - *2020-2022*, Reliability and maintenance of transport equipment (ME44125, TU Delft).
