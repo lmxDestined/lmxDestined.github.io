@@ -43,7 +43,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
     Harbin Engineering University, China<br>
     Supervisor: Prof. Liping Sun</p>
   </div>
-  <div style="margin-left:12px;">
+  <div style="margin-left:4px;">
     <img src="images/Picture1.png" alt="photo" width="80" style="border-radius:8px;">
   </div>
 </div>
@@ -55,7 +55,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
     Harbin Engineering University, China<br>
     Supervisor: Prof. Liping Sun</p>
   </div>
-  <div style="margin-left:12px;">
+  <div style="margin-left:4px;">
     <img src="images/Picture1.png" alt="photo" width="80" style="border-radius:8px;">
   </div>
 </div>
@@ -70,7 +70,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
     The University of Tokyo, Japan<br>
     Host: Dr. Yuka Kikuchi, Prof. Takeshi Ishihara</p>
   </div>
-  <div style="margin-left:20px;">
+  <div style="margin-left:22px;">
     <img src="images/Picture6.png" alt="photo" width="220" style="border-radius:8px;">
   </div>
 </div>
