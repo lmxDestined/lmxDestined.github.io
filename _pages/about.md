@@ -22,55 +22,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📖 Educations
-<div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
-  <img src="images/Picture1.png" alt="img1" style="width: 19%; height: auto;">
-  <img src="images/Picture2.png" alt="img2" style="width: 19%; height: auto;">
-</div>
-
-- **2019.09–2023.07**  
-  **Doctor of Philosophy in Maritime and Transport Technology**  
-  Delft University of Technology, the Netherlands  
-  Supervisor: Prof. Liping Sun
-
-- **2016.09–2019.06**  
-  **Master of Engineering in Naval Architecture and Ocean Engineering**  
-  Harbin Engineering University, China  
-  Supervisor: Prof. Liping Sun
-
-- **2012.09–2016.06**  
-  **Bachelor of Engineering in Naval Architecture and Ocean Engineering**  
-  Harbin Engineering University, China  
-  Supervisor: Prof. Liping Sun
-
-# 👨‍💻 Professional Appointments
-<div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
-  <img src="images/Picture3.png" alt="img1" style="width: 19%; height: auto;">
-  <img src="images/Picture4.png" alt="img2" style="width: 19%; height: auto;">
-  <img src="images/Picture5.png" alt="img2" style="width: 19%; height: auto;">
-  <img src="images/Picture6.png" alt="img2" style="width: 19%; height: auto;">
-</div>
-
-- **2024.09–now**  
-  **Doctor of Philosophy in Maritime and Transport Technology**  
-  Delft University of Technology, the Netherlands  
-  Supervisor: Prof. Liping Sun
-
-- **2016.09–2019.06**  
-  **Master of Engineering in Naval Architecture and Ocean Engineering**  
-  Harbin Engineering University, China  
-  Supervisor: Prof. Liping Sun
-
-- **2012.09–2016.06**  
-  **Bachelor of Engineering in Naval Architecture and Ocean Engineering**  
-  Harbin Engineering University, China  
-  Supervisor: Prof. Liping Sun
-
 <div style="display:flex; align-items:center; margin-bottom:24px;">
   <div style="flex:1;">
     <p><strong>2019.09–2023.07</strong><br>
     <strong>Doctor of Philosophy in Maritime and Transport Technology</strong><br>
     Delft University of Technology, the Netherlands<br>
-    Supervisor: Prof. Liping Sun</p>
+    Supervisor: Prof. Rudy R. Negenborn, Dr. Xiaoli Jiang</p>
   </div>
   <div style="margin-left:20px;">
     <img src="images/Picture2.png" alt="photo" width="140" style="border-radius:8px;">
@@ -85,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
     Supervisor: Prof. Liping Sun</p>
   </div>
   <div style="margin-left:20px;">
-    <img src="images/Picture1.png" alt="photo" width="140" style="border-radius:8px;">
+    <img src="images/Picture1.png" alt="photo" width="100" style="border-radius:8px;">
   </div>
 </div>
 
@@ -97,14 +54,66 @@ My research interest includes neural machine translation and computer vision. I 
     Supervisor: Prof. Liping Sun</p>
   </div>
   <div style="margin-left:20px;">
-    <img src="images/Picture1.png" alt="photo" width="140" style="border-radius:8px;">
+    <img src="images/Picture1.png" alt="photo" width="100" style="border-radius:8px;">
   </div>
 </div>
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 👨‍💻 Professional Appointments
+<div style="display:flex; align-items:center; margin-bottom:24px;">
+  <div style="flex:1;">
+    <p><strong>2024.09–now</strong><br>
+    <strong>Japan Society for the Promotion of Science (JSPS) Research Fellow</strong><br>
+    Bridge and Wind Engineering Laboratory, Department of Civil Engineering<br>
+    The University of Tokyo, Japan<br>
+    Host: Dr. Yuka Kikuchi, Prof. Takeshi Ishihara</p>
+  </div>
+  <div style="margin-left:20px;">
+    <img src="images/Picture6.png" alt="photo" width="140" style="border-radius:8px;">
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:24px;">
+  <div style="flex:1;">
+    <p><strong>2024.06–2024.07</strong><br>
+    <strong>Visiting Scholar</strong><br>
+    Laboratory of Analysis of Systems for the Assessment of Reliability, Risk and Resilience (LASAR3), Department of Energy<br>
+    Politecnico di Milano, Italy<br>
+    Host: Prof. Enrico Zio, Prof. Piero Baraldi</p>
+  </div>
+  <div style="margin-left:20px;">
+    <img src="images/Picture5.png" alt="photo" width="100" style="border-radius:8px;">
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:24px;">
+  <div style="flex:1;">
+    <p><strong>2024.01–2024.03</strong><br>
+    <strong>Visiting Scholar</strong><br>
+    Leuven Mecha(tro)nic System Dynamics (LMSD), Department of Mechanical Engineering<br>
+    KU Leuven, Belgium<br>
+    Host: Prof. Konstantinos C. Gryllias</p>
+  </div>
+  <div style="margin-left:20px;">
+    <img src="images/Picture4.png" alt="photo" width="100" style="border-radius:8px;">
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:24px;">
+  <div style="flex:1;">
+    <p><strong>2023.07–2024.09</strong><br>
+    <strong>Wind Energy and Control Centre (WECC), Department of Electronic & Electrical Engineering</strong><br>
+    University of Strathclyde, United Kingdom<br>
+    Supervisor: Prof. James Carroll</p>
+  </div>
+  <div style="margin-left:20px;">
+    <img src="images/Picture3.png" alt="photo" width="100" style="border-radius:8px;">
+  </div>
+</div>
+
+
+# 💻 Research Experience
+
 
 # 📝 Publications 
 
