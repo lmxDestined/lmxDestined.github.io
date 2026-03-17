@@ -1,32 +1,31 @@
-# main links links
+# main links
 main:
   - title: "About Me"
     url: "/#about-me"
-    
- - title: "Educations"
-    url: "/#-educations"
 
- - title: "Professional Appointments"
-    url: "/#-Professional-Appointments"
-    
-- title: "Research Experience"
-    url: "/#-Research-Experience"
-    
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Professional Appointments"
+    url: "/#professional-appointments"
+
+  - title: "Research Experience"
+    url: "/#research-experience"
+
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
-      - title: "Patents"
-    url: "/#-Patents"
+  - title: "Patents"
+    url: "/#patents"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
- 
-  - title: "Professional Affliations and Services"
-    url: "/#-Professional-Affliations-and-Services"
+  - title: "Professional Affiliations and Services"
+    url: "/#professional-affiliations-and-services"
 
   - title: "Invited Presentations"
-    url: "/#-invited-Presentations"
-    
- - title: "Teaching ans Supervision Experience"
-    url: "/#-Teaching-and-Supervision-Experience"
+    url: "/#invited-presentations"
+
+  - title: "Teaching and Supervision Experience"
+    url: "/#teaching-and-supervision-experience"
