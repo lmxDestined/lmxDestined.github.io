@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I obtained my PhD from Delft University of Technology in the Netherlands, and subsequently conducted research at the University of Strathclyde (UK), Politecnico di Milano (Italy), KU Leuven (Belgium). Since 2024, I have been funded by the Japan Society for the Promotion of Science (JSPS) Postdoctoral Fellowship to work as a JSPS Research Fellow at the University of Tokyo. The JSPS Postdoctoral Fellowship is an international program attracting young and excellent researchers from all over the world to conduct individual research in Japan. The selection process is highly competitive, with a success rate of below 10% each year. It is one of the most renowned postdoctoral fellowships globally, comparable to the Marie Curie Postdoctoral Fellowship in the EU and Humboldt Research Fellowship in Germany. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on developing digital twin technology, AI-driven condition monitoring, and intelligent maintenance techniqus to advance the reliability, risk assessment, and resilience of offshore renewable energy systems. I have published about 30 papers as the first/corresponding authors at the international journals and conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My research, highly recognized across the fields of wind energy, ocean engineering, and reliability engineering, has earned me 12 prestigious international fellowships, scholarships, and awards. I am currently an observer and an invited speaker of the International Energy Agency (IEA) Wind TCP Task 43 and 53, a member of European Academy of Wind Energy (EAWE) technical committees and International Society of Offshore and Polar Engineers (ISOPE) technical committees. I have served as an editorial member/ guest editor/youth editorial member of eight journals, acted as an organizing com-mittee member/session chair at six international conferences.
 
 # 📖 Educations
 <div style="display:flex; align-items:center; margin-bottom:24px;">
@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
     Supervisor: Prof. Rudy R. Negenborn, Dr. Xiaoli Jiang</p>
   </div>
   <div style="margin-left:20px;">
-    <img src="images/Picture2.png" alt="photo" width="140" style="border-radius:8px;">
+    <img src="images/Picture2.png" alt="photo" width="120" style="border-radius:8px;">
   </div>
 </div>
 
@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
     Supervisor: Prof. Liping Sun</p>
   </div>
   <div style="margin-left:20px;">
-    <img src="images/Picture1.png" alt="photo" width="100" style="border-radius:8px;">
+    <img src="images/Picture1.png" alt="photo" width="80" style="border-radius:8px;">
   </div>
 </div>
 
@@ -54,7 +54,7 @@ My research interest includes neural machine translation and computer vision. I 
     Supervisor: Prof. Liping Sun</p>
   </div>
   <div style="margin-left:20px;">
-    <img src="images/Picture1.png" alt="photo" width="100" style="border-radius:8px;">
+    <img src="images/Picture1.png" alt="photo" width="80" style="border-radius:8px;">
   </div>
 </div>
 
@@ -82,7 +82,7 @@ My research interest includes neural machine translation and computer vision. I 
     Host: Prof. Enrico Zio, Prof. Piero Baraldi</p>
   </div>
   <div style="margin-left:20px;">
-    <img src="images/Picture5.png" alt="photo" width="100" style="border-radius:8px;">
+    <img src="images/Picture5.png" alt="photo" width="140" style="border-radius:8px;">
   </div>
 </div>
 
@@ -95,7 +95,7 @@ My research interest includes neural machine translation and computer vision. I 
     Host: Prof. Konstantinos C. Gryllias</p>
   </div>
   <div style="margin-left:20px;">
-    <img src="images/Picture4.png" alt="photo" width="100" style="border-radius:8px;">
+    <img src="images/Picture4.png" alt="photo" width="140" style="border-radius:8px;">
   </div>
 </div>
 
@@ -107,13 +107,27 @@ My research interest includes neural machine translation and computer vision. I 
     Supervisor: Prof. James Carroll</p>
   </div>
   <div style="margin-left:20px;">
-    <img src="images/Picture3.png" alt="photo" width="100" style="border-radius:8px;">
+    <img src="images/Picture3.png" alt="photo" width="160" style="border-radius:8px;">
   </div>
 </div>
 
 
 # 💻 Research Experience
 
+## Principal Investigator
+- Rethinking Wind Power: A Multi-disciplinary Investigation into Novel Wind Turbine Design from Technological, Economic, and Social Perspectives. *UK, Strathwide Research Fund, 5 K£*
+- Digital twin-enhanced O&M in Offshore Renewable Energy. *UK, EPSRC Supergen Offshore Renewable Energy Hub, 5 K£*
+- Optimization of Maintenance Strategies for Offshore Wind Farms by using Digital Twin Technology. *Japan, The Japan Society for the Promotion of Science (JSPS), 23 M¥ (JPY)*
+- KAKENHI Grants-in-Aid for Scientific Research. *Japan, The Japan Society for the Promotion of Science (JSPS), 1.6 M M¥ (JPY)*
+## Researcher Co-investigator
+- Holi-DOCTOR: Holistic framework for DiagnOstiCs and moniTORing of wind turbine blades. *The Netherlands, NWO-KIC, 1.53 M€*
+## Researcher
+- X-ROTOR: X-shaped Radical Offshore Wind Turbine for Overall Cost of Energy Reduction. *European Commission, Horizon 2020, 3.9 M€*
+- Reliability analysis, diagnosis and prognosis of direct drive and medium speed generators. *UK, EPSRC, 269 K£*
+- BLOG-H: using a Battolyser to produce LOw cost Green Hydrogen. *UK, EPSRC, 88 K£*
+- Development of FPSO Failure Database and Risk Assessment Software. *China, 27 M¥ (CNY)*
+- Development of Floating Offshore Wind Turbine Risk Assessment Software. *China, 2 M¥ (CNY)*
+- Hydrokinetic Energy Conversion of VIVACE based on Passive Turbulence Control. *China, 2.8 M¥ (CNY)* 
 
 # 📝 Publications 
 
