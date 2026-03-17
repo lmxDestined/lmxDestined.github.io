@@ -23,17 +23,83 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 <div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
-  <img src="images/Screenshot 2026-03-17 105852.png" alt="img1" style="width: 19%; height: auto;">
-  <img src="images/Screenshot 2026-03-17 105940.png" alt="img2" style="width: 19%; height: auto;">
+  <img src="images/Picture 1.png" alt="img1" style="width: 19%; height: auto;">
+  <img src="images/Picture 2.png" alt="img2" style="width: 19%; height: auto;">
 </div>
-- *2019.09 - 2023.07* Doctor of Philosophy, Maritime and Transport Technology, Delft University of Technology, the Netherlands. 
-- *2016.09 - 2019.06* Master of Engineering, Naval Architecture and Ocean Engineering, Harbin Engineering University, China. 
-- *2012.09 - 2016.06* Bachelor of Engineering, Naval Architecture and Ocean Engineering, Harbin Engineering University, China.
+
+- **2019.09–2023.07**  
+  **Doctor of Philosophy in Maritime and Transport Technology**  
+  Delft University of Technology, the Netherlands  
+  Supervisor: Prof. Liping Sun
+
+- **2016.09–2019.06**  
+  **Master of Engineering in Naval Architecture and Ocean Engineering**  
+  Harbin Engineering University, China  
+  Supervisor: Prof. Liping Sun
+
+- **2012.09–2016.06**  
+  **Bachelor of Engineering in Naval Architecture and Ocean Engineering**  
+  Harbin Engineering University, China  
+  Supervisor: Prof. Liping Sun
 
 # 👨‍💻 Professional Appointments
-- *2019.09 - 2023.07* Doctor of Philosophy, Maritime and Transport Technology, Delft University of Technology, the Netherlands. 
-- *2016.09 - 2019.06* Master of Engineering, Naval Architecture and Ocean Engineering, Harbin Engineering University, China. 
-- *2012.09 - 2016.06* Bachelor of Engineering, Naval Architecture and Ocean Engineering, Harbin Engineering University, China.
+<div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
+  <img src="images/Picture 3.png" alt="img1" style="width: 19%; height: auto;">
+  <img src="images/Picture 4.png" alt="img2" style="width: 19%; height: auto;">
+  <img src="images/Picture 5.png" alt="img2" style="width: 19%; height: auto;">
+  <img src="images/Picture 6.png" alt="img2" style="width: 19%; height: auto;">
+</div>
+
+- **2024.09–now**  
+  **Doctor of Philosophy in Maritime and Transport Technology**  
+  Delft University of Technology, the Netherlands  
+  Supervisor: Prof. Liping Sun
+
+- **2016.09–2019.06**  
+  **Master of Engineering in Naval Architecture and Ocean Engineering**  
+  Harbin Engineering University, China  
+  Supervisor: Prof. Liping Sun
+
+- **2012.09–2016.06**  
+  **Bachelor of Engineering in Naval Architecture and Ocean Engineering**  
+  Harbin Engineering University, China  
+  Supervisor: Prof. Liping Sun
+
+<div style="display:flex; align-items:center; margin-bottom:24px;">
+  <div style="flex:1;">
+    <p><strong>2019.09–2023.07</strong><br>
+    <strong>Doctor of Philosophy in Maritime and Transport Technology</strong><br>
+    Delft University of Technology, the Netherlands<br>
+    Supervisor: Prof. Liping Sun</p>
+  </div>
+  <div style="margin-left:20px;">
+    <img src="images/Picture 2.png" alt="photo" width="140" style="border-radius:8px;">
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:24px;">
+  <div style="flex:1;">
+    <p><strong>2016.09–2019.06</strong><br>
+    <strong>Master of Engineering in Naval Architecture and Ocean Engineering</strong><br>
+    Harbin Engineering University, China<br>
+    Supervisor: Prof. Liping Sun</p>
+  </div>
+  <div style="margin-left:20px;">
+    <img src="images/Picture 1.png" alt="photo" width="140" style="border-radius:8px;">
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:24px;">
+  <div style="flex:1;">
+    <p><strong>2012.09–2016.06</strong><br>
+    <strong>Bachelor of Engineering in Naval Architecture and Ocean Engineering</strong><br>
+    Harbin Engineering University, China<br>
+    Supervisor: Prof. Liping Sun</p>
+  </div>
+  <div style="margin-left:20px;">
+    <img src="images/Picture 1.png" alt="photo" width="140" style="border-radius:8px;">
+  </div>
+</div>
 
 
 # 🔥 News
