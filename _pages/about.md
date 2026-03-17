@@ -42,9 +42,44 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# 📝 Publications
+
+## PhD Thesis
+- Delft University of Technology. [Towards Closed-loop Maintenance Logistics for Offshore Wind Farms: Approaches for Strategic and Tactical Decision-making](https://research.tudelft.nl/en/publications/towards-closed-loop-maintenance-logistics-for-offshore-wind-farms/), **Mingxin Li**.
+
+## Book chapters
+- **Mingxin Li**, Manu Centeno‐Telleria, and James Carroll. [Techno‐economic Analysis for Offshore Renewable Energy Technologies Incorporating a Holistic O&M Model](https://doi.org/10.1002/9781394300068.ch02), Renewable Energy Transition with Artificial Intelligence: Challenge‐driven Solutions (2025): 15-28.
+
+## Journal papers
+- Wanwan Zhang, Jørn Vatn, Adil Rasheed, **Mingxin Li**\*, and Yiliu Liu. [Predictive maintenance scheduling of recoverable stochastic hybrid systems under degradation and shocks: a case study of an offshore wind farm](https://doi.org/10.1016/j.ress.2026.112545), *Reliability Engineering & System Safety* (2026): 112545.
+- Ji Li, Yang Liu, Zhuang Kang, **Mingxin Li**\*, and Jichuan Kang. [Numerical simulation-based collision risk assessment of autonomous underwater vehicles during launch and recovery](https://doi.org/10.1016/j.oceaneng.2026.124577), *Ocean Engineering* 352 (2026): 124577.
+- Shengming Wang, Chuanyang Zhao, Hongbing Liu, Zhenhao Zhu, **Mingxin Li**, Weizhe Ren, and Xianqiang Qu. [A physically interpretable two-stream spatio-temporal attention framework for predicting the power of offshore wind farms: A case study in the South China Sea](https://doi.org/10.1080/15435075.2025.2563154), *International Journal of Green Energy* 23, no. 3 (2026): 652-668.
+- Chuanyang Zhao, Hongbing Liu, **Mingxin Li**, Wang Liu, Yuchen Lu, and Xianqiang Qu. [Nonperiodic inspection and maintenance optimization for floating wind turbine electric control systems based on an improved salp swarm algorithm](https://doi.org/10.1115/1.4068918), *Journal of Offshore Mechanics and Arctic Engineering* 148, no. 1 (2026): 012003.
+- Chuanyang Zhao, Hongbing Liu, Xianqiang Qu, Haoyang Zuo, and **Mingxin Li**\*. [A power prediction-informed maintenance optimization for floating offshore wind turbines maximizing reliability and economic performance](https://doi.org/10.1016/j.oceaneng.2025.123542), *Ocean Engineering* 343 (2026): 123542.
+- **Mingxin Li**\*, Zifei Xu, Shen Li, Yuka Kikuchi, You Dong, Konstantinos C. Gryllias, Piero Baraldi, Enrico Zio, and James Carroll. [Health prognostics and maintenance decision-making for wind energy: A comprehensive overview](https://doi.org/10.1016/j.rser.2025.116269), *Renewable and Sustainable Energy Reviews* 226 (2026): 116269.
+- Xiaohuan Lyu, and **Mingxin Li**\*. [Cost-effective and carbon policy-driven network design optimization for Green Maritime Corridors: Case studies in the Baltic, Mediterranean, and Pacific regions](https://doi.org/10.1016/j.energy.2025.139509), *Energy* (2025): 139509.
+- Ruinan Guo, Yingfei Zan, Shan Wang, Zhongming Li, Duanfeng Han, and **Mingxin Li**. [Time-varying hydrodynamic loads on a remotely operated vehicle during water entry](https://doi.org/10.1016/j.oceaneng.2025.122843), *Ocean Engineering* 341 (2025): 122843.
+- Kayacan Kestel, Xavier Chesterman, Donatella Zappalá, Simon Watson, **Mingxin Li**, Edward Hart, James Carroll et al. [Condition monitoring of wind turbine drivetrains: State-of-the-art technologies, recent trends, and future outlook](https://doi.org/10.5194/wes-2025-168), *Wind Energy Science Discussions* 2025 (2025): 1-85.
+
+## Conference papers
+- **Mingxin Li**\*, and Yuka Kikuchi. [Predictive Maintenance Optimization for Offshore Wind Farms with Power Losses and Wake Effect Considerations](https://onepetro.org/ISOPEIOPEC/proceedings-split/ISOPE25/ISOPE25/ISOPE-I-25-051/713295). In *Proceedings of the 35th International Ocean and Polar Engineering Conference* (2025), Seoul, Korea.
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- *2026* Marie Skłodowska-Curie Actions Seal of Excellence (awarded by Horizon Europe, in recognition of a high score 95.4%)
+- *2025* Gold Medal at the Geneva International Exhibition of Inventions (Rank 4/11)
+- *2025* International Joint Conference on Civil and Marine Engineering (JCCME) Excellent Presentation Award
+- *2024* European Academy of Wind Energy (EAWE) Scholarship (10 awardees pear year, 500 €)
+- *2024* European Federation of National Maintenance Societies (EFNMS) Euromaintenance PhD thesis Award Nomination (3 nonimators per year)
+- *2024* Dutch Maintenance Society's PhD thesis Award (1 awardee pear year, 1000 €)
+- *2024* Japan Society for the Promotion of Science (JSPS) Postdoctoral Fellowship (success rate below 10%)
+- *2024* International Conference on Ocean, Offshore and Arctic Engineering (OMAE) Outreach Scholarship (750 S$)
+- *2024* International Conference on Ocean, Offshore and Arctic Engineering (OMAE) Travel Award  (600 US$)
+- *2023* International Society of Offshore and Polar Engineers (ISOPE) Scholarships for Outstanding Students (3 awardees pear years, 1000 US$)
+- *2023* Best TU Delft Wind Energy Paper Award
+- *2021* OCEANS Conference Best Paper 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
