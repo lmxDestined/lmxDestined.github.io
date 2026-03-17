@@ -2,21 +2,30 @@
 main:
   - title: "About Me"
     url: "/#about-me"
+    
+ - title: "Educations"
+    url: "/#-educations"
 
-  - title: "News"
-    url: "/#-news"
-
+ - title: "Professional Appointments"
+    url: "/#-Professional-Appointments"
+    
+- title: "Research Experience"
+    url: "/#-Research-Experience"
+    
   - title: "Publications"
     url: "/#-publications"
+
+      - title: "Patents"
+    url: "/#-Patents"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+ 
+  - title: "Professional Affliations and Services"
+    url: "/#-Professional-Affliations-and-Services"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Invited Presentations"
+    url: "/#-invited-Presentations"
+ - title: "Teaching ans Supervision Experience"
+    url: "/#-Teaching-and-Supervision-Experience"
