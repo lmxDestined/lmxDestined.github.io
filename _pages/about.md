@@ -21,6 +21,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+# 📖 Educations
+<div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
+  <img src="images/Screenshot 2026-03-17 105852.png" alt="img1" style="width: 19%; height: auto;">
+  <img src="images/Screenshot 2026-03-17 105940.png" alt="img2" style="width: 19%; height: auto;">
+</div>
+- *2019.09 - 2023.07* Doctor of Philosophy, Maritime and Transport Technology, Delft University of Technology, the Netherlands. 
+- *2016.09 - 2019.06* Master of Engineering, Naval Architecture and Ocean Engineering, Harbin Engineering University, China. 
+- *2012.09 - 2016.06* Bachelor of Engineering, Naval Architecture and Ocean Engineering, Harbin Engineering University, China.
+
+# 👨‍💻 Professional Appointments
+- *2019.09 - 2023.07* Doctor of Philosophy, Maritime and Transport Technology, Delft University of Technology, the Netherlands. 
+- *2016.09 - 2019.06* Master of Engineering, Naval Architecture and Ocean Engineering, Harbin Engineering University, China. 
+- *2012.09 - 2016.06* Bachelor of Engineering, Naval Architecture and Ocean Engineering, Harbin Engineering University, China.
+
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -49,7 +63,7 @@ My research interest includes neural machine translation and computer vision. I 
 ## Conference papers
 - **Mingxin Li**\*, and Yuka Kikuchi. [Predictive Maintenance Optimization for Offshore Wind Farms with Power Losses and Wake Effect Considerations](https://onepetro.org/ISOPEIOPEC/proceedings-split/ISOPE25/ISOPE25/ISOPE-I-25-051/713295). In *Proceedings of the 35th International Ocean and Polar Engineering Conference* (2025), Seoul, Korea.
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 <div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
   <img src="images/Screenshot 2026-03-17 105852.png" alt="img1" style="width: 19%; height: auto;">
   <img src="images/Screenshot 2026-03-17 105940.png" alt="img2" style="width: 19%; height: auto;">
@@ -71,10 +85,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023* Best TU Delft Wind Energy Paper Award
 - *2021* OCEANS Conference Best Paper 
 
-# 📖 Educations
-- *2019.09 - 2023.07* Doctor of Philosophy, Maritime and Transport Technology, Delft University of Technology, the Netherlands. 
-- *2016.09 - 2019.06* Master of Engineering, Naval Architecture and Ocean Engineering, Harbin Engineering University, China. 
-- *2012.09 - 2016.06* Bachelor of Engineering, Naval Architecture and Ocean Engineering, Harbin Engineering University, China. 
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
