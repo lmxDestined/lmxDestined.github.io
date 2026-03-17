@@ -245,7 +245,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - *2021.07*, [2]	TWIND Summer School: Operations and Maintenance. Delft, the Netherlands (Online).
 - *2020.10*, TEL PhD Seminar. TU Delft, the Netherlands (Online).
 
-# 🧑‍🏫 Teaching ans Supervision Experience
+# 🧑‍🏫 Teaching and Supervision Experience
 ## Teaching Assistantship
 - *2019-2021*, Asset management (AE3512, TU Delft).
 - *2020-2022*, Reliability and maintenance of transport equipment (ME44125, TU Delft).
