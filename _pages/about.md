@@ -148,12 +148,12 @@ I am currently an observer and an invited speaker of the International Energy Ag
 ## Journal Papers
 <span id="honors-and-awards"></span>
 <div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
-  <img src="images/rser.jpg" alt="img1" style="width: 16%; height: auto;">
-  <img src="images/ae.jpg" alt="img2" style="width: 16%; height: auto;">
-  <img src="images/oe.jpg" alt="img3" style="width: 16%; height: auto;">
-  <img src="images/ress.jpg" alt="img4" style="width: 16%; height: auto;">
-  <img src="images/renewableenergy.jpg" alt="img5" style="width: 16%; height: auto;">
-  <img src="images/energy.jpg" alt="img6" style="width: 16%; height: auto;">
+  <img src="images/rser.jpg" alt="img1" style="width: 15%; height: auto;">
+  <img src="images/ae.jpg" alt="img2" style="width: 15%; height: auto;">
+  <img src="images/oe.jpg" alt="img3" style="width: 15%; height: auto;">
+  <img src="images/ress.jpg" alt="img4" style="width: 15%; height: auto;">
+  <img src="images/renewableenergy.jpg" alt="img5" style="width: 15%; height: auto;">
+  <img src="images/energy.jpg" alt="img6" style="width: 15%; height: auto;">
 </div>
 - Wanwan Zhang, Jørn Vatn, Adil Rasheed, **Mingxin Li**\*, and Yiliu Liu. [Predictive maintenance scheduling of recoverable stochastic hybrid systems under degradation and shocks: a case study of an offshore wind farm](https://doi.org/10.1016/j.ress.2026.112545), *Reliability Engineering & System Safety* (2026): 112545.
 - Ji Li, Yang Liu, Zhuang Kang, **Mingxin Li**\*, and Jichuan Kang. [Numerical simulation-based collision risk assessment of autonomous underwater vehicles during launch and recovery](https://doi.org/10.1016/j.oceaneng.2026.124577), *Ocean Engineering* 352 (2026): 124577.
@@ -228,6 +228,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
 -	I am serving as a (youth) Editorial Board Member of *Ocean*, *Marine Energy Research*, *Frontiers in Energy Research*, *Clean Energy Science and Technology*.
 -	I have served as the Special Issue Guest Editor for journals including *Measurement Science and Technology*, *Journal of Marine Science and Engineering*, *Fluid Dynamics & Materials Processing*, *Frontiers in Built En-vironment*, *Frontiers in Energy Research*, *Energies*. 
 - I have reviewed for conferences including ISOPE, TORQUE, OMAE, MEIE, CSAE.
+
 ## Conferenes
 - I have served as a Organization Committee Member at JCCME 2025.
 - I have served as a Session Chair at QR2SME 2026, ISOPE 2025, APCOW 2025, WESC 2023, WESC 2025.
