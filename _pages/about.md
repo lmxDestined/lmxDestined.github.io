@@ -106,6 +106,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
 <div style="display:flex; align-items:center; margin-bottom:24px;">
   <div style="flex:1;">
     <p><strong>2023.07–2024.09</strong><br>
+         <strong>Research Associate</strong><br>
     Wind Energy and Control Centre (WECC), Department of Electronic & Electrical Engineering</strong><br>
     University of Strathclyde, United Kingdom<br>
     Host: Prof. James Carroll</p>
