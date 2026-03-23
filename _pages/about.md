@@ -146,6 +146,15 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - **Mingxin Li**, Manu Centeno‐Telleria, and James Carroll. [Techno‐economic Analysis for Offshore Renewable Energy Technologies Incorporating a Holistic O&M Model](https://doi.org/10.1002/9781394300068.ch02), Renewable Energy Transition with Artificial Intelligence: Challenge‐driven Solutions (2025): 15-28.
 
 ## Journal Papers
+<span id="honors-and-awards"></span>
+<div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
+  <img src="images/rser.jpg" alt="img1" style="width: 16%; height: auto;">
+  <img src="images/ae.jpg" alt="img2" style="width: 16%; height: auto;">
+  <img src="images/oe.jpg" alt="img3" style="width: 16%; height: auto;">
+  <img src="images/ress.jpg" alt="img4" style="width: 16%; height: auto;">
+  <img src="images/renewableenergy.jpg" alt="img5" style="width: 16%; height: auto;">
+  <img src="images/energy.jpg" alt="img6" style="width: 16%; height: auto;">
+</div>
 - Wanwan Zhang, Jørn Vatn, Adil Rasheed, **Mingxin Li**\*, and Yiliu Liu. [Predictive maintenance scheduling of recoverable stochastic hybrid systems under degradation and shocks: a case study of an offshore wind farm](https://doi.org/10.1016/j.ress.2026.112545), *Reliability Engineering & System Safety* (2026): 112545.
 - Ji Li, Yang Liu, Zhuang Kang, **Mingxin Li**\*, and Jichuan Kang. [Numerical simulation-based collision risk assessment of autonomous underwater vehicles during launch and recovery](https://doi.org/10.1016/j.oceaneng.2026.124577), *Ocean Engineering* 352 (2026): 124577.
 - Shengming Wang, Chuanyang Zhao, Hongbing Liu, Zhenhao Zhu, **Mingxin Li**, Weizhe Ren, and Xianqiang Qu. [A physically interpretable two-stream spatio-temporal attention framework for predicting the power of offshore wind farms: A case study in the South China Sea](https://doi.org/10.1080/15435075.2025.2563154), *International Journal of Green Energy* 23, no. 3 (2026): 652-668.
