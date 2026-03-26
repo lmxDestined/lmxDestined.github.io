@@ -21,7 +21,7 @@ I obtained my PhD from Delft University of Technology in the Netherlands, and su
 
 My research focuses on  the development of **Digital Twin technology**, **AI-driven condition monitoring**, and **intelligent maintenance decision support** for offshore renewable energy systems, aiming to enhance **system reliability**, **resilience**, and **lifecycle cost efficiency**. I have published about 30 papers as the first/corresponding authors at the international journals and conferences. My research, highly recognized across the fields of wind energy, ocean engineering, and reliability engineering, has earned me **12 prestigious international fellowships, scholarships, and awards**. 
 
-I am currently an observer and an invited speaker of the International Energy Agency (IEA) Wind TCP Task 43 and 53, a member of European Academy of Wind Energy (EAWE) technical committees and International Society of Offshore and Polar Engineers (ISOPE) technical committees. I have served as an editorial member/ guest editor/youth editorial member of 8 journals, acted as an organizing committee member/session chair at 6 international conferences.
+I am currently an observer and an invited speaker of the International Energy Agency (IEA) Wind TCP Task 43 and 53, a member of European Academy of Wind Energy (EAWE) technical committees and International Society of Offshore and Polar Engineers (ISOPE) technical committees. I have served as an editorial member/guest editor/youth editorial member of 8 journals, acted as an organizing committee member/session chair at 6 international conferences.
 
 # 📖 Educations
 <span id="education"></span>
