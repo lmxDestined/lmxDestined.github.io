@@ -156,7 +156,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
   <img src="images/energy.jpg" alt="img6" style="width: 15%; height: auto;">
 </div>
 - Zhimin Cheng, Jichuan Kang, Yu Sun, Dandan Peng, and **Mingxin Li**\*. [A hybrid CNN-Transformer model with optimized VMD for fault diagnosis
-of wave energy converter gearboxes]([https://doi.org/10.1016/j.rser.2026.116970](https://doi.org/10.1016/j.oceaneng.2026.125527)), *Ocean Engineering* 357 (2026): 125527.
+of wave energy converter gearboxes](https://doi.org/10.1016/j.oceaneng.2026.125527), *Ocean Engineering* 357 (2026): 125527.
 - **Mingxin Li**\*, Yuka Kikuchi, Jonas W. Ringsberg, Konstantinos C. Gryllias, Piero Baraldi, Enrico Zio, and James Carroll. [Empowering digital twins for wind energy operation and maintenance: A prospective framework and future directions](https://doi.org/10.1016/j.rser.2026.116970), *Renewable and Sustainable Energy Reviews* 235 (2026): 116970.
 - Wanwan Zhang, Jørn Vatn, Adil Rasheed, **Mingxin Li**\*, and Yiliu Liu. [Predictive maintenance scheduling of recoverable stochastic hybrid systems under degradation and shocks: a case study of an offshore wind farm](https://doi.org/10.1016/j.ress.2026.112545), *Reliability Engineering & System Safety* (2026): 112545.
 - Ji Li, Yang Liu, Zhuang Kang, **Mingxin Li**\*, and Jichuan Kang. [Numerical simulation-based collision risk assessment of autonomous underwater vehicles during launch and recovery](https://doi.org/10.1016/j.oceaneng.2026.124577), *Ocean Engineering* 352 (2026): 124577.
