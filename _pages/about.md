@@ -206,8 +206,6 @@ of wave energy converter gearboxes](https://doi.org/10.1016/j.oceaneng.2026.1255
   <img src="images/Screenshot 2026-03-17 110029.png" alt="img4" style="width: 19%; height: auto;">
   <img src="images/Screenshot 2026-03-17 110049.png" alt="img5" style="width: 19%; height: auto;">
 </div>
-
-- *2026* Marie Skłodowska-Curie Actions Seal of Excellence (awarded by Horizon Europe, in recognition of a high score 95.4%)
 - *2025* Gold Medal at the Geneva International Exhibition of Inventions (Rank 4/11)
 - *2025* International Joint Conference on Civil and Marine Engineering (JCCME) Excellent Presentation Award
 - *2024* European Academy of Wind Energy (EAWE) Scholarship (10 awardees per year, 500 €)
