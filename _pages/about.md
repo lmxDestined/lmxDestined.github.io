@@ -136,7 +136,7 @@ I am currently an observer and an invited speaker of the International Energy Ag
 - Development of Floating Offshore Wind Turbine Risk Assessment Software. *China, 2 M¥ (CNY)*
 - Hydrokinetic Energy Conversion of VIVACE based on Passive Turbulence Control. *China, 2.8 M¥ (CNY)* 
 
-# 📝 Publications 
+# 📝 Publications （\* Corresponding author）
 <span id="publications"></span>
 
 ## PhD Thesis
